@@ -1,0 +1,45 @@
+.btn{
+
+		padding: 5px;
+		margin: 5px;
+		font-size: 50px;
+		color: green;
+	}
+
+	.main{
+
+		
+		margin: 50px;		
+		
+
+	}
+	.bod{
+
+		border: solid red;
+		width: 400px;
+		margin-left: 200px;
+		
+
+
+	}
+	.button-show{
+
+		color: yellow;
+		background: blue;
+
+		font-size: 30px;
+	}
+
+	.button-show{
+
+		
+
+		font-size: 30px;
+		padding-left: 30px;
+	}
+
+	.screen-show{
+
+		font-size: 25px;
+	}
+	
